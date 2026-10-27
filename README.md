@@ -38,7 +38,7 @@ I have developed and managed my own Minecraft servers with **150+ concurrent pla
 
 | Project | Description |
 |---------|-------------|
-| rzEssentials | Fork EssentialsX |
+| rzEssentials<a href="https://github.com/">My Projects</a> | Fork EssentialsX |
 | ??? | Not released. |
 | ??? | Not released. |
 
