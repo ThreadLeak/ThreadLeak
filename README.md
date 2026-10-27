@@ -1,9 +1,4 @@
 
-<div align="right">
-  <a href="./README.md">EN</a> ·
-  <a href="./README_RU.md">RU</a>
-</div>
-
 <h1 align="center">rzPlugin</h1>
 
 <p align="center">
@@ -46,21 +41,14 @@ flexibility and clean code architecture.
 | Project | Description |
 |---------|-------------|
 | rzEssentials | Fork EssentialsX |
-| ??? | Not released |
-| ??? | Not released |
-
-## Technologies
-
-- **Languages:** Java, SQL, Python, Rust, Maven, Gradle
-- **Platforms:** Paper, Spigot, Folia
-- **Build Tools:** Maven, Gradle
-- **Tools:** IntelliJ IDEA, Git, GitHub
+| ??? | Not released. |
+| ??? | Not released. |
 
 ## Tech Stack
 
 | Area | Technologies |
 |------|--------------|
-| Languages & build tools | `Java 8+` · `Python` · `Maven` · `Gradle` |
+| Languages & build tools | `Java 8+` · `Python` · `Rust` · `Maven` · `Gradle` |
 | Server platforms | `Paper` · `Spigot` · `Folia` · `Bukkit` |
 | Proxies | `Velocity` · `BungeeCord` |
 | Databases | `MySQL` · `PostgreSQL` · `SQLite` · `H2` |
