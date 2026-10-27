@@ -1,5 +1,5 @@
 
-<h1 align="center">rzPlugin</h1>
+<h1 align="center">ThreadLeak</h1>
 
 <p align="center">
   <b>Java Developer · Minecraft Plugins · Backend Development</b>
@@ -54,7 +54,3 @@ flexibility and clean code architecture.
 | Databases | `MySQL` · `PostgreSQL` · `SQLite` · `H2` |
 | Additional tools & internals | `Redis` · `YAML` · `NMS` |
 
-
-## Contact
-
-Open to collaboration and Minecraft-related projects.
