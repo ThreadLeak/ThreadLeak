@@ -4,7 +4,7 @@
   <a href="./README_RU.md">RU</a>
 </div>
 
-<h1 align="center">hPlugin</h1>
+<h1 align="center">rzPlugin</h1>
 
 <p align="center">
   <b>Java Developer · Minecraft Plugins · Backend Development</b>
@@ -45,13 +45,13 @@ flexibility and clean code architecture.
 
 | Project | Description |
 |---------|-------------|
-| PluginCore | Modular Minecraft plugin infrastructure |
-| StaffTools | Advanced administration and moderation tools |
-| ServerAPI | Custom integrations and backend services |
+| rzEssentials | Fork EssentialsX |
+| ??? | Not released |
+| ??? | Not released |
 
 ## Technologies
 
-- **Languages:** Java, SQL
+- **Languages:** Java, SQL, Python, Rust, Maven, Gradle
 - **Platforms:** Paper, Spigot, Folia
 - **Build Tools:** Maven, Gradle
 - **Tools:** IntelliJ IDEA, Git, GitHub
