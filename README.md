@@ -56,6 +56,17 @@ flexibility and clean code architecture.
 - **Build Tools:** Maven, Gradle
 - **Tools:** IntelliJ IDEA, Git, GitHub
 
+## Tech Stack
+
+| Area | Technologies |
+|------|--------------|
+| Languages & build tools | `Java 8+` · `Python` · `Maven` · `Gradle` |
+| Server platforms | `Paper` · `Spigot` · `Folia` · `Bukkit` |
+| Proxies | `Velocity` · `BungeeCord` |
+| Databases | `MySQL` · `PostgreSQL` · `SQLite` · `H2` |
+| Additional tools & internals | `Redis` · `YAML` · `NMS` |
+
+
 ## Contact
 
 Open to collaboration and Minecraft-related projects.
