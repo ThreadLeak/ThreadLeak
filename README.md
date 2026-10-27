@@ -16,12 +16,6 @@
   <b>Java · Minecraft Server Development</b>
 </p>
 
-<p align="center">
-  <a href="https://github.com/">My Projects</a>
-  ·
-  <a href="https://discord.com/">Contact Me</a>
-</p>
-
 I develop Minecraft plugins, custom server mechanics,
 administration tools and integrations.
 
