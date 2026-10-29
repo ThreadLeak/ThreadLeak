@@ -24,7 +24,7 @@ flexibility and clean code architecture.
 
 ## Experience & Results
 
-I have **4 years of experience in Minecraft server development**, including building and maintaining custom server systems.
+I have **3 years of experience in Minecraft server development**, including building and maintaining custom server systems.
 
 I have developed and managed my own Minecraft servers with **150+ concurrent players**. I have also worked as a **technical administrator and developer** on various Minecraft servers with **200–500+ concurrent players**.
 
