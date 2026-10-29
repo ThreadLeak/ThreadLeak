@@ -39,7 +39,7 @@ I have developed and managed my own Minecraft servers with **150+ concurrent pla
 | Project | Description |
 |---------|-------------|
 | <a href="https://github.com/ThreadLeak/rzEssentials/">rzEssentials</a> | Fork EssentialsX |
-| <a href="https://github.com/ThreadLeak/rzVault/">rzEssentials</a> | Not released. |
+| <a href="https://github.com/ThreadLeak/rzVault/">rzVault</a> | Not released. |
 | ??? | Not released. |
 
 ## Tech Stack
