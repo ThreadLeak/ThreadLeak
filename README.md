@@ -38,8 +38,11 @@ I have developed and managed my own Minecraft servers with **150+ concurrent pla
 
 | Project | Description |
 |---------|-------------|
-| <a href="https://github.com/ThreadLeak/rzEssentials/">rzEssentials</a> | Fork EssentialsX |
-| <a href="https://github.com/ThreadLeak/rzVault/">rzVault</a> | Not released. |
+| <a href="https://github.com/ThreadLeak/rzEssentials/">rzEssentials</a> | An enhanced EssentialsX fork with performance improvements, new features, and customizable menus. (Not released) |
+| <a href="https://github.com/ThreadLeak/rzVault/">rzVault</a> | A lightweight Vault fork for modern Minecraft servers, preserving the classic API with streamlined integrations. |
+| ??? | Not released. |
+| ??? | Not released. |
+| ??? | Not released. |
 | ??? | Not released. |
 
 ## Tech Stack
